@@ -1,5 +1,6 @@
 void main() {
     // variables 
+    //dart variables and data types are similar to javascript
 
     //Strings
     //var name = "Samson";
@@ -10,6 +11,7 @@ void main() {
     int age = 25;
 
     //dynamic
+    // dynamic is a special type that indicates that a variable can hold any type of value.
     dynamic height = 3.5;
 
     //const and final
