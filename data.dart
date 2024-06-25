@@ -13,7 +13,8 @@ void main() {
     print("Integer: $phone_num");
 
     //Doubble
-
+//double: Represents floating-point values.
+double pi = 3.14159265359;
     double other_num = 92.44;
     print("double: $other_num");
 
