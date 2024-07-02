@@ -25,4 +25,7 @@ double pi = 3.14159265359;
     //Dynamic
     dynamic myDynamic = "Hello tim";
     print("Dynamic: $myDynamic");
+
+    //double is a number with decimal point ...
+    //just like in javascript double is floats 
 }
