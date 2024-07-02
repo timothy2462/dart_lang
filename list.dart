@@ -11,5 +11,7 @@ void main( ) {
   //List allows duplicate of data while sets does not allow duplicates of data
 
   Set <String>  names = {"mario", "daniel", "samuel"};
-  print(names);
+  names.add("imor okan");
+  names.remove("samuel");
+  print(names.length);
 }
