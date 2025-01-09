@@ -6,7 +6,7 @@ void main() {
     print(age / 10);
     print(age % 10);
     print(age + 10);
-    print(age - 10);
+    // print(age - 10);
     // for( var i = 0; i > 3; i++ ) {
     //     print(" age $i" );
     // }
