@@ -13,7 +13,7 @@ void main() {
     print("my programing language is $new_language and my age is $age");
 }
 
-void main() {
-    var name = "Timothy";
-    print(name);
-}
+// void main() {
+//     var name = "Timothy";
+//     print(name);
+// }
